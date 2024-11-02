@@ -1,0 +1,30 @@
+# Core Framework and Server
+fastapi
+uvicorn
+
+# Database and ORM
+pymongo
+
+# Environment Variable Management
+python-dotenv
+
+# LangChain and LLM Integrations
+langchain
+openai
+pinecone-client
+
+# Google OAuth for Authentication
+google-auth
+google-auth-oauthlib
+
+# Stripe API for Payment Processing
+stripe
+
+# HTTP Requests
+requests
+
+# Community Extensions for LangChain
+langchain-community
+
+# Optional: Logging Enhancements (if not already included in your environment)
+loguru
