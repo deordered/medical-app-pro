@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+appenv/
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables file
+.env
+
+# Python environment and package management files
+*.egg-info/
+.Python
+pip-log.txt
+
+# MongoDB configuration and temporary files
+dump/
+mongod.lock
+
+# Ignore any local data or secret files
+*.pem
+*.key
+
+# Specific library caches and test outputs
+.cache/
+pytest_cache/
+
+# Compiled files
+*.so
+*.pyd
+*.dll
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you use npm for any reason)
+node_modules/
+
+# Ignore test folder (if needed)
+tests/
